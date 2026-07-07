@@ -1,6 +1,6 @@
 export const site = {
   name: "ChapterLog",
   description: "My personal bookshelf — chapter-by-chapter book notes",
-  url: "https://astro-theme-chapterlog.vercel.app",
+  url: "https://book.tosuthien.org",
   author: "Your Name",
 };

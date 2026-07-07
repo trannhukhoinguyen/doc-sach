@@ -22,8 +22,10 @@ export interface Book {
   translator: string;
   publisher: string;
   publishedAt: string;
+  originalPublishedAt?: string;
   category: Category;
   cover?: string;
+  oldCover?: string;
   parts: Part[];
 }
 
@@ -33,8 +35,10 @@ interface BookYaml {
   translator?: string;
   publisher: string;
   publishedAt: string;
+  originalPublishedAt?: string;
   category: string;
   cover?: string;
+  oldCover?: string;
   parts: {
     title: string;
     chapters: {
@@ -67,8 +71,10 @@ function loadBooks(): Book[] {
       translator: data.translator ?? "",
       publisher: data.publisher,
       publishedAt: data.publishedAt,
+      originalPublishedAt: data.originalPublishedAt,
       category: data.category,
       cover: data.cover,
+      oldCover: data.oldCover,
       parts: data.parts.map((p) => ({
         title: p.title,
         chapters: p.chapters.map((ch) => ({

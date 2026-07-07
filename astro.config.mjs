@@ -2,6 +2,6 @@ import { defineConfig } from "astro/config";
 import sitemap from "@astrojs/sitemap";
 
 export default defineConfig({
-  site: "https://astro-theme-chapterlog.vercel.app",
+  site: "https://book.tosuthien.org",
   integrations: [sitemap()],
 });
