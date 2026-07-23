@@ -21,7 +21,7 @@ export interface Book {
   author: string;
   translator: string;
   publisher: string;
-  publishedAt: string;
+  publishedAt?: string;
   originalPublishedAt?: string;
   category: Category;
   cover?: string;

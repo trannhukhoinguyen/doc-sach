@@ -1,13 +1,9 @@
 title: Thiền Tông Quyết Nghi Tập
 author: TS Đoạn Vân Trí Triệt
-translator: ""
-publisher: ""
-publishedAt: ""
-originalPublishedAt: ""
-category: Thiền Tông
-cover: /covers/thien-tong-quyet-nghi-tap.jpg
+category: Tổ Sư Thiền
+cover: /covers/thien-tong-quyet-nghi-tap.avif
 parts:
-  - title: Principles
+  - title: Phần I
     chapters:
       - slug: nguyen-tram-luu-thanh-mon
         number: 1
@@ -18,7 +14,7 @@ parts:
       - slug: khuoc-bo-phuc-thang-mon
         number: 3
         title: Khước bộ phục thăng môn
-  - title: Structure
+  - title: Phần II
     chapters:
       - slug: thoi-doa-sach-le-mon
         number: 4
@@ -29,7 +25,7 @@ parts:
       - slug: chap-ngai-quyet-nghi-mon
         number: 6
         title: Chấp ngại quyết nghi môn
-  - title: Structure
+  - title: Phần III
     chapters:
       - slug: that-chinh-cuu-canh-mon
         number: 7
@@ -46,7 +42,7 @@ parts:
       - slug: thuong-can-loi-khi-mon
         number: 11
         title: Thượng căn lợi khí môn
-  - title: Structure
+  - title: Phần IV
     chapters:
       - slug: thien-lam-tinh-lu-mon
         number: 12
@@ -63,7 +59,7 @@ parts:
       - slug: quy-nguyen-that-te-mon
         number: 16
         title: Quy nguyên thật tế môn
-  - title: Structure
+  - title: Phần V
     chapters:
       - slug: the-dung-song-tu-am-duc-vuong-hoa
         number: 17

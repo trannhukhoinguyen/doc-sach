@@ -1,32 +1,10 @@
 title: Đường Lối Thực Hành Tham Tổ Sư Thiền
 author: HT Thích Duy Lực
-translator: ""
-publisher: ""
-publishedAt: ""
-originalPublishedAt: ""
-category: Thiền Tông
-cover: /covers/duong-loi-thuc-hanh-tham-to-su-thien.jpg
-oldCover: ""
+category: Tổ Sư Thiền
+cover: /covers/duong-loi-thuc-hanh-tham-to-su-thien.avif
 parts:
   - title: Principles
     chapters:
       - slug: chapter-01
         number: 1
         title: Clean Code
-      - slug: chapter-02
-        number: 2
-        title: Meaningful Names
-      - slug: chapter-03
-        number: 3
-        title: Functions
-  - title: Structure
-    chapters:
-      - slug: chapter-04
-        number: 4
-        title: Comments
-      - slug: chapter-05
-        number: 5
-        title: Formatting
-      - slug: chapter-06
-        number: 6
-        title: Objects and Data Structures
