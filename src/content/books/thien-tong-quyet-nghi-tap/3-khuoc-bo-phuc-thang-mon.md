@@ -3,7 +3,7 @@ sections:
   - "Lùi bước rồi lại tiến"
 ---
 
-## Lùi bước rồi lại tiến
+## 3. Khước bộ phục thăng môn (Lùi bước rồi lại tiến)
 
 Giờ đây, nêu trường hợp khi công phu không đắc lực. Nghi tình trên chữ “một” này chợt nghi, chợt mất, đó là do rơi vào hôn trầm hoặc bị tán loạn.
 Nếu ráng dùng sức khởi nghi thì đã không đắc lực mà lùi lại càng lùi.
@@ -16,3 +16,5 @@ Lại nghĩ: “Châu báu đó ai đi cũng có phần, sao ta lại bỏ?”.
 Bấy giờ người ấy phấn chấn quyết chí tiến bước đến nơi, nhặt châu báu, trở thành giàu có, làm lợi ích an vui cho cả quyến thuộc.
 Việc thế gian đều như thế. Nay nêu ra ví dụ tiến, thoái này nhằm vào chỗ hạ thủ công phu không đắc lực khiến cho đắc lực.
 Thật ra, sợ hàng hậu học đời sau nửa chừng chán bỏ, cho nên lấy việc này để khuyên gắng thêm!
+
+

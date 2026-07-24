@@ -1,9 +1,10 @@
 ---
 sections:
-  - "Khuyên người chấp trước nên khởi nghi tình"
+  - "6. Chấp ngại quyết nghi môn (Khuyên người chấp trước nên khởi nghi tình)"
 ---
 
-## Khuyên người chấp trước nên khởi nghi tình
+
+## 6. Chấp ngại quyết nghi môn (Khuyên người chấp trước nên khởi nghi tình)
 
 Hai công án trên đây, đều phát xuất từ hòa thượng Triệu Châu [^7], và đã được nêu ra nhiều trong chốn tòng lâm.
 
@@ -23,4 +24,6 @@ Thí như những người có nghệ thuật tinh xảo ở thế gian, chưa a
 Một chữ NGHI này là tâm suy nghĩ dụng mưu, nghĩa đồng nhưng tên lại khác.
 
 Như trong hội Lăng-nghiêm, hai mươi lăm hành giả [^9] được viên thông, mỗi vị đều có nghi, nên mới chứng ngộ, việc này ai cũng biết, chẳng cần giải thích rõ.
+
+
 

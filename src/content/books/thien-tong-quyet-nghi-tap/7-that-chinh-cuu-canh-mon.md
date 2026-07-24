@@ -1,9 +1,10 @@
 ---
 sections:
-  - "Cứu cánh sai lầm"
+  - "7. Thất chính cứu cánh môn (Cứu cánh sai lầm)"
 ---
 
-## Cứu cánh sai lầm
+
+## 7. Thất chính cứu cánh môn (Cứu cánh sai lầm)
 
 Đây là trình bày việc tham chữ “KHÔNG 🈚️”, người học nghe bậc tôn túc nói nên đem chữ “KHÔNG 🈚️” này dán trên mắt, mắt liền thành chữ “KHÔNG 🈚️”, chữ “KHÔNG 🈚️” liền thành con mắt.
 
@@ -29,4 +30,3 @@ Thật là đáng tiếc! Hoặc có người tham câu: “Muôn pháp về m�
 
 ❓ đến chỗ thích đáng để khởi nghi tình, liền nói lung tung, hoặc nói khởi nghi tình trên chữ “chỗ nào?”, hoặc nói khởi nghi tình trên chữ “một về”, hoặc cả hai câu, hoặc chỉ câu sau.
 Mỗi người chủ trương một đường riêng mà không thay đổi. Thật không thể hiểu được!
-
