@@ -1,4 +1,4 @@
-title: Chánh Pháp Nhãn Tạng
+  title: Chánh Pháp Nhãn Tạng
 author: HT ĐẠO NGUYÊN HY HUYỀN
 translator: Cư sĩ ĐỖ ĐÌNH ĐỒNG
 category: Luận
@@ -8,18 +8,297 @@ parts:
     chapters:
       - slug: loi-nguoi-dich
         number: 1
-        title: Lời người dịch
-      - slug: loi-gioi-thieu-cua-philip-kapleau
-        number: 2
-        title: Lời giới thiệu của Philip Kapleau
-      - slug: loi-tuat-va-ghi-nhan
-        number: 3
-        title: Lời tựa và ghi nhận
-      - slug: loi-dang-nhap-cua-nguoi-chu-bien
-        number: 4
-        title: Lời dẫn nhập của người chủ biên
+        title: 4 Lời Tựa
   - title: Part 1
     chapters:
-      - slug: loi-nguoi-dich
-        number: 1
-        title: Lời người dịch
+      - slug: noi-chuyen-tu-dao
+        number: 2
+        title: Biện đạo thoại
+      - slug: tri-lon-den-bo-ben-kia
+        number: 3
+        title: Ma-ha Bát-nhã Ba-la-mật-đa
+      - slug: hien-thanh-cong-an
+        number: 4
+        title: Hiện thành công án
+      - slug: mot-vien-ngoc-sang
+        number: 5
+        title: Nhất cá minh châu
+      - slug: nhung-dieu-le-cua-trong-van-duong
+        number: 6
+        title: Trọng Vân Đường Thức
+      - slug: tam-tuc-la-phat
+        number: 7
+        title: Tức tâm thị Phật
+      - slug: rua-sach
+        number: 8
+        title: Tẩy tịnh
+      - slug: rua-mat
+        number: 9
+        title: Tẩy diện
+      - slug: le-bai-duoc-tuy
+        number: 10
+        title: Lễ bái đắc tủy
+      - slug: tieng-khe-sac-nui
+        number: 11
+        title: Khê thanh sơn sắc
+      - slug: khong-lam-dieu-ac
+        number: 12
+        title: Chư ác mạt tác
+      - slug: huu-thoi
+        number: 13
+        title: Hữu thời
+      - slug: cong-duc-ao-ca-sa
+        number: 14
+        title: Cà-sa công đức
+      - slug: truyen-ao-ca-sa
+        number: 15
+        title: Truyền y
+      - slug: kinh-nui-va-nuoc
+        number: 16
+        title: Sơn Thủy kinh
+      - slug: phat-to
+        number: 17
+        title: Phật tổ
+      - slug: chung-thu-thua-tu
+        number: 18
+        title: Tự thư
+      - slug: phap-hoa-chuyen-phap-hoa
+        number: 19
+        title: Pháp hoa chuyển pháp hoa
+      - slug: tam-bat-kha-dac
+        number: 20
+        title: Tâm bất khả đắc
+      - slug: tam-bat-kha-dac-phan-sau
+        number: 21
+        title: Hậu Tâm bất khả đắc
+      - slug: guong-xua
+        number: 22
+        title: Cổ kính
+      - slug: xem-kinh
+        number: 23
+        title: Khán kinh
+      - slug: tanh-phat
+        number: 24
+        title: Phật tánh
+      - slug: oai-nghi-cua-cac-phat-hanh-tri
+        number: 25
+        title: Hạnh phật oai nghi
+      - slug: gia-ly-cua-cac-phat
+        number: 26
+        title: Phật giáo
+      - slug: than-thong
+        number: 27
+        title: Thần thông
+      - slug: dai-ngo
+        number: 28
+        title: Đại ngộ
+      - slug: bai-cham-ngoi-thien
+        number: 29
+        title: Tọa thiền châm
+      - slug: su-huong-len-tren-phat
+        number: 30
+        title: Phật hướng thượng sự
+      - slug: nhu-the
+        number: 31
+        title: Nhẫm ma
+      - slug: hanh-tri-phan-mot
+        number: 32
+        title: Hành trì, thượng
+      - slug: hanh-tri-phan-hai
+        number: 33
+        title: Hành trì, hạ
+      - slug: hai-an-tam-muoi
+        number: 34
+        title: Hải ấn tam-muội
+      - slug: tho-ky
+        number: 35
+        title: Thọ ký
+      - slug: quan-am
+        number: 36
+        title: Quan Âm
+      - slug: a-la-han
+        number: 37
+        title: A-la-hán
+      - slug: cay-bach
+        number: 38
+        title: Bách thọ tử
+      - slug: quang-minh
+        number: 39
+        title: Quang minh
+      - slug: than-tam-hoc-dao
+        number: 40
+        title: Thân tâm học đạo
+      - slug: trong-mong-noi-mong
+        number: 41
+        title: Mộng trung thuyết mộng
+      - slug: noi-duoc
+        number: 42
+        title: Đạo đắc
+      - slug: banh-ho-ve
+        number: 43
+        title: Họa bính
+      - slug: toan-co
+        number: 44
+        title: Toàn cơ
+      - slug: mat-trang
+        number: 45
+        title: Đô ky, Nguyệt
+      - slug: hoa-hu-khong
+        number: 46
+        title: Không hoa
+      - slug: tam-co-phat
+        number: 47
+        title: Cổ phật tâm
+      - slug: bon-nhiep-phap-cua-bo-tat
+        number: 48
+        title: Bồ-đề-tát-đỏa tứ nhiếp pháp
+      - slug: san-bim
+        number: 49
+        title: Cát đằng
+      - slug: ba-gioi-khong-lia-tam
+        number: 50
+        title: Tam giới duy tâm
+      - slug: noi-tam-noi-tanh
+        number: 51
+        title: Thuyết tâm thuyết tánh
+      - slug: dao-cua-cac-phat
+        number: 52
+        title: Phật đạo
+      - slug: thuc-tuong-cua-tat-ca-cac-phap
+        number: 53
+        title: Chư pháp thực tướng
+      - slug: mat-ngu
+        number: 54
+        title: Mật ngữ
+      - slug: kinh-phat
+        number: 55
+        title: Phật kinh
+      - slug: vo-tinh-thuyet-phap
+        number: 56
+        title: Vô tình thuyết pháp
+      - slug: ban-tanh-cua-cac-phap
+        number: 57
+        title: Pháp tánh
+      - slug: da-la-ni
+        number: 58
+        title: Đa-la-ni
+      - slug: doi-dien-tho-nhan
+        number: 59
+        title: Diện thọ
+      - slug: nghi-thuc-ngoi-thien
+        number: 60
+        title: Tọa thiền nghi
+      - slug: hoa-mai
+        number: 61
+        title: Mai hoa
+      - slug: muoi-phong
+        number: 62
+        title: Thập phương
+      - slug: thay-phat
+        number: 63
+        title: Kiến phật
+      - slug: tham-hoc-tat-ca
+        number: 64
+        title: Biến tham
+      - slug: trong-mat
+        number: 65
+        title: Nhãn tình
+      - slug: nep-nha
+        number: 66
+        title: Gia thường
+      - slug: rong-ngam
+        number: 67
+        title: Long ngâm
+      - slug: xuan-thu
+        number: 68
+        title: Xuân thu
+      - slug: y-to-su-tu-tay-den
+        number: 69
+        title: Tổ sư Tây lai ý
+      - slug: hoa-uu-dam
+        number: 70
+        title: Ưu đàm hoa
+      - slug: phat-tam-vo-thuong
+        number: 71
+        title: Phát vô thượng tâm
+      - slug: phat-tam-bo-de
+        number: 72
+        title: Phát bồ-đề tâm
+      - slug: toan-than-nhu-lai
+        number: 73
+        title: Như Lai toàn thân
+      - slug: vua-tam-muoi
+        number: 74
+        title: Tam-muội Vương tam-muội
+      - slug: ba-muoi-bay-pham-bo-de-phan-phap
+        number: 75
+        title: Tam thập thất phẩm bồ-đề phần pháp
+      - slug: chuyen-banh-xe-phap
+        number: 76
+        title: Chuyển pháp luân
+      - slug: tu-chung-tam-muoi
+        number: 77
+        title: Tự chứng tam muội
+      - slug: dai-tu-hanh
+        number: 78
+        title: Đại tu hành
+      - slug: hu-khong
+        number: 79
+        title: Hư không
+      - slug: cai-bat-an
+        number: 80
+        title: Bát vu
+      - slug: an-cu
+        number: 81
+        title: An cư
+      - slug: thay-tam-nguoi-khac
+        number: 82
+        title: Tha tâm thông
+      - slug: vua-muon-tien-da-ba
+        number: 83
+        title: Vương sách tiên-đà-bà
+      - slug: van-day-lam-viec-nha-bep
+        number: 84
+        title: Thị khố viện văn
+      - slug: xuat-gia
+        number: 85
+        title: Xuất gia
+      - slug: tam-dieu-tinh-giac-cua-bac-dai-nhan
+        number: 86
+        title: Bát đại nhân giác
+      - slug: nghiep-trong-ba-thoi
+        number: 87
+        title: Tam thời nghiệp
+      - slug: bon-loai-ngua
+        number: 88
+        title: Tứ mã
+      - slug: cong-duc-xuat-gia
+        number: 89
+        title: Xuất gia công đức
+      - slug: cung-duong-cac-phat
+        number: 90
+        title: Cúng dường chư Phật
+      - slug: qui-y-phat-phap-tang
+        number: 91
+        title: Qui y Phật Pháp Tăng
+      - slug: tin-sau-nhan-qua
+        number: 92
+        title: Thâm tín nhân quả
+      - slug: ty-kheo-cua-thien-thu-tu
+        number: 93
+        title: Tứ thiền Tỳ-kheo
+      - slug: chi-phat-voi-phat
+        number: 94
+        title: Duy Phật dữ Phật
+      - slug: sinh-tu
+        number: 95
+        title: Sinh tử
+      - slug: tam-dao
+        number: 96
+        title: Đạo tâm
+      - slug: tho-gioi
+        number: 97
+        title: Thọ giới
+      - slug: mot-tram-le-tam-cua-chung-ngo-phap
+        number: 98
+        title: Nhất bách bát pháp minh môn
