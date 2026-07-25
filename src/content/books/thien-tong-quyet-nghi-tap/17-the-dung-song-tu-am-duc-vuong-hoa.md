@@ -5,8 +5,6 @@ sections:
 
 ## 17. Thể dụng song tu, âm dực vương hóa (Thể dụng song tu, thầm giúp vua trị quốc)
 
-<div id="17"></div>
-
 Đoạn này nói về công đức của mười thiện.
 
 Mười thiện vốn đồng thể với mười ác, chỉ theo duyên nhiễm tịnh mà có tên gọi khác, như nắm tay-xòe tay, chỉ một thể mà tác dụng là ở nơi buông-nắm của con người.

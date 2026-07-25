@@ -5,8 +5,6 @@ sections:
 
 ## 9. Chỉ bổn hoàn chơn môn (Chỉ gốc về chơn)
 
-<div id="9"></div>
-
 Vị tăng ❓ ngài Triệu Châu: “Muôn pháp về một, một về đâu?”. Ngài Triệu Châu nói: “Ta ở Thanh Châu may cái áo vải nặng bảy cân”.
 Vị tăng này lại nghi không giống vị tăng kia, khiến ngài Triệu Châu phải uổng phí động miệng lưỡi lần nữa.
 Nói áo nặng bảy cân thì không phải là một việc nhỏ, ý này là sao? Vì cân không đúng nên không người mua.

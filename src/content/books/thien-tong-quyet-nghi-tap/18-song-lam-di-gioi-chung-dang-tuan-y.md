@@ -5,8 +5,6 @@ sections:
 
 ## 18. Song lâm di giới chúng đẳng tôn y (Lời di huấn ở rừng Ta-la mọi người tuân theo)
 
-<div id="8"></div>
-
 Kinh nói: “Không trì năm giới trì thì cắt đứt con đường nhân, thiên”. Năm giới là đầu tiên của các giới, đứng đầu của muôn thiện.
 
 Kinh lại nói: “Giống như làm nhà, trước phải xây nền móng kiên cố. Nếu xây nền trên hư không thì không bao giờ thành tựu”.

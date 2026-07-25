@@ -5,8 +5,6 @@ sections:
 
 ## 14. Kỳ Viên thánh chúng môn (Thánh chúng ở Kỳ Viên)
 
-<div id="14"></div>
-
 Đoạn này nói về khởi nguyên của của pháp bình đẳng.
 Đó là khi Đức Phật ở tại Kỳ Viên cùng với một nghìn hai trăm năm mươi vị Tỳ-kheo, nhất định hành khất thực là muốn giáo hóa thí chủ bỏ xan tham, tránh ba đường: địa ngục, ngạ quỷ, súc sinh.
 Thức ăn xin được trong bát chia làm ba phần: Một phần ban cho loài quỉ đói, chim thú và cá, một phần ban cho người nghèo cùng đến xin, một phần thọ dụng dưỡng thân hành đạo, cầu Phật quả Vô thượng bồ-đề.

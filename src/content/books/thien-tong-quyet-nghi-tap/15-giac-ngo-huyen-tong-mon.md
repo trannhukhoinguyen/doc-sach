@@ -5,8 +5,6 @@ sections:
 
 ## 15. Giác ngộ huyền tông môn (Giác ngộ tông huyền)
 
-<div id="15"></div>
-
 Nếu bàn về việc này, không phải ở chỗ ngồi thiền im lặng, không phải ở chỗ cày ruộng trồng trọt, cũng không phải ở chỗ đắp y, trì bát.
 Vậy hãy nói rốt ráo ở chỗ nào? (im lặng hồi lâu) Là gì? Là cái gì? Người học lãnh hội không nổi lý này, nên đề câu thoại đầu, khởi nghi như trước, không cần thuật lại.
 

@@ -5,8 +5,6 @@ sections:
 
 ## 20. Ức tích xuất trần thừa huynh cảnh giới (Nhớ xưa xuất trần nhận lời dạy của người anh)
 
-<div id="20"></div>
-
 Từ năm Ất Hợi niên hiệu Nguyên Thống thứ ba (1335), Trí Triệt tôi đã thọ năm giới tại gia, đến tháng 5 năm Canh Thìn (1340) vào chùa, mùng 8 tháng 12 xuống tóc làm tăng, đảnh lễ cầu hòa thượng Vân Phong làm thầy.
 Ngày rời nhà, nhận lời dặn dò ân cần của người anh kế là cư sĩ Lê Thập: “Việc xuất gia chẳng phải là nhân duyên nhỏ, là việc nhập thánh siêu phàm, nối tiếp huệ mạng chư Phật.
 Đây là việc của bậc đại trượng phu, nên phải gắng sức làm.

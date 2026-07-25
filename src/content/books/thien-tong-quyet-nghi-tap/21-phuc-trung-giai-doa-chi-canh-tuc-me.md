@@ -5,8 +5,6 @@ sections:
 
 ## 21. Phục trừng giải nọa, chỉ cảnh, tức mê (Lại răn nhắc sự giải đãi, dừng cảnh, dứt mê)
 
-<div id="21"></div>
-
 Ở đây tiếp tục nói đến việc đã đề cập ở trên.
 Trong cuộc đàm đạo vào đêm Tự tứ [^39], tại thiền đường ở sơn phòng [^40], thủ tọa [^41] Độn Cơ thốt lời cảm thương người học: “Gần đây xã hội chuyển biến, lòng người thay đổi rất nhiều, Phật pháp suy vi, chùa chiền hoang phế, thiện tri thức không xuất hiện, nên không thể tìm được người có chính tri kiến khai thị con đường thẳng tắt pháp môn Niệm Phật, Tham thiền cho bốn chúng hiện tiền học Phật”.
 

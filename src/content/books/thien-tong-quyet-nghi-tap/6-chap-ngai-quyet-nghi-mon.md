@@ -3,7 +3,6 @@ sections:
   - "6. Chấp ngại quyết nghi môn (Khuyên người chấp trước nên khởi nghi tình)"
 ---
 
-
 ## 6. Chấp ngại quyết nghi môn (Khuyên người chấp trước nên khởi nghi tình)
 
 Hai công án trên đây, đều phát xuất từ hòa thượng Triệu Châu [^7], và đã được nêu ra nhiều trong chốn tòng lâm.

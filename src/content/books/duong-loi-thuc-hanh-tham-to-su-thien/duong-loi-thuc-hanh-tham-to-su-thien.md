@@ -39,7 +39,9 @@ Sanh từ đâu đến, chết đi về đâu?
 Chẳng phải tâm, chẳng phải Phật, chẳng phải vật, là cái gì?
 
 Câu thoại đầu là câu hỏi, có hỏi thì phải có đáp, cũng như câu: "Khi chưa có Trời đất, ta là cái gì?" hỏi thầm trong bụng cảm thấy không hiểu thì đáp không ra, đáp không ra thì càng thấy thắc mắc, chính cái thắc mắc đó gọi là nghi tình. 
+
 Hỏi câu thứ nhất đáp không ra thì tiếp tục hỏi câu thứ nhì, đáp không ra, tiếp tục hỏi câu thứ ba, cứ tiếp tục hỏi mãi, ngày đêm không ngừng, bất cứ đi, đứng, nằm, ngồi, đang làm công việc tay chân hay bằng trí óc, đi bộ, đi xe, đang ăn cơm, đang đi cầu, đang ngủ mê, đều phải tiếp tục hỏi tới hoài, không giây phút gián đoạn. 
+
 Người sơ tham thì hay quên cũng như một ngày 24 tiếng đồng hồ, gián đoạn 23 tiếng, tập tham dần dần thì sự gián đoạn giảm bớt còn 22 tiếng, rồi tiếp tục còn 21 tiếng, 20 tiếng v.v... dần dần đến công phu miên mật tức là ngày đêm 24 giờ không giây phút gián đoạn. Khi công phu được thành khối cũng gọi là đến thoại đầu, cũng gọi là đến đầu sào trăm thước. Từ đầu sào trăm thước tiến thêm một bước nữa là kiến tánh, đạt đến chỗ tự do tự tại, được giải thoát vĩnh viễn tất cả khổ.
 
 ## 10 CHÚ Ý

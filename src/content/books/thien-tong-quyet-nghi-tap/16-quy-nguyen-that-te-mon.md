@@ -5,8 +5,6 @@ sections:
 
 ## 16. Quy nguyên thật tế môn (Trở về nguồn thật tế)
 
-<div id="16"></div>
-
 Phần trên đã trình bày không phải là bản ý của tôi, bởi nghiên cứu tất cả Thánh điển, xem đọc các loại sách vở, nêu việc xưa, chứng nghiệm việc nay, cộng với việc thấy nghe chính xác mới thấy phần nhiều bốn chúng đều dụng tâm sai khác, kiến giải thiên lệch, tà chính không biết, đúng sai chẳng phân.
 Than ôi! Sinh nhằm đời mạt pháp, cách Phật rất xa, không hiểu trước mắt vạn duyên sai biệt.
 Do đó chỉ riêng người thực hành công phu, tuy tham câu thoại đầu khác nhau, nhưng chỗ dụng tâm khởi nghi không khác, tất cả thoại đầu cần nên khởi nghi.

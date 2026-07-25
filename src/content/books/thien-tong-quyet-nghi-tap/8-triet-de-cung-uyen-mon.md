@@ -5,8 +5,6 @@ sections:
 
 ## 8. Triệt để cùng uyên môn (Cùng nguồn tận đáy)
 
-<div id="8"></div>
-
 Tôi hổ thẹn lúc còn đang tu học, chưa được thăng đường nhập thất [^12] chỉ trộm nhìn ý thú ở đầu cửa mà thôi. Ví như người quản lí châu báu cho nhà vua, châu báu này vốn chẳng phải của anh ta, nhưng anh ta có thể phân biệt thật, giả, quí, tiện, khinh, trọng. Nếu quyến thuộc của vua cần lấy, liền theo ý mà cấp cho họ dùng, không lẫn lộn. Cũng giống như thế, diệu pháp vô thượng của Phật, Tổ chẳng phải của tôi, nhưng thứ tự công phu, tà, chính, sâu, cạn tôi cũng lược biết và trình bày cho mọi người hiểu. Tôi nguyện cùng với những đồng đạo giải quyết nghi tình này, nhất định không dối gạt nhau.
 
 Vị tăng ❓ ngài Triệu Châu: Con chó có Phật tánh KHÔNG 🈚️?

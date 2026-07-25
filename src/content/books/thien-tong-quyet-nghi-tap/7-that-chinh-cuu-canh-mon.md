@@ -3,7 +3,6 @@ sections:
   - "7. Thất chính cứu cánh môn (Cứu cánh sai lầm)"
 ---
 
-
 ## 7. Thất chính cứu cánh môn (Cứu cánh sai lầm)
 
 Đây là trình bày việc tham chữ “KHÔNG 🈚️”, người học nghe bậc tôn túc nói nên đem chữ “KHÔNG 🈚️” này dán trên mắt, mắt liền thành chữ “KHÔNG 🈚️”, chữ “KHÔNG 🈚️” liền thành con mắt.

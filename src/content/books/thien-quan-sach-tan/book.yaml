@@ -6,25 +6,32 @@ publishedAt: 2013
 category: Tổ Sư Thiền
 cover: /covers/thien-quan-sach-tan.avif
 parts:
-  - title: Principles
+  - title: Lời Tựa Của Sa Môn Châu Hoằng
     chapters:
-      - slug: chapter-01
+      - slug: loi-ta-cua-sa-mon-chau-hoang
         number: 1
-        title: Clean Code
-      - slug: chapter-02
+        title: Lời Tựa Của Sa Môn Châu Hoằng
+  - title: I. Rút Gọn Lời Dạy Chư Tổ
+    chapters:
+      - slug: 1-hoang-ba-hy-van-thien-su-su-day-chung
         number: 2
-        title: Meaningful Names
-      - slug: chapter-03
-        number: 3
-        title: Functions
-  - title: Structure
+        title: 1. Hoàng Bá Vận Thiền sư dạy Chúng
+  - title: II. Sự Khổ Công Tu Tập Của Chư Tổ
+    chapters:
+      - slug: chapter-04
+        number: 41
+        title: Comments
+  - title: III. Dẫn Các Kinh
     chapters:
       - slug: chapter-04
         number: 4
-        title: Comments
-      - slug: chapter-05
-        number: 5
-        title: Formatting
-      - slug: chapter-06
-        number: 6
-        title: Objects and Data Structures
+        title: 1. Im lặng chuyên cần tu tập
+      - slug: chapter-04
+        number: 4
+        title: 1. Không thấy đạo thề không nằm nghỉ
+      - slug: chapter-04
+        number: 4
+        title: 1.Vì chuyên cần cam chịu mọi khó khổ
+      - slug: chapter-04
+        number: 4
+        title: 1. Hông không bén chiếu

@@ -5,8 +5,6 @@ sections:
 
 ## 19. Pháp môn sám hối, hạnh nguyện Bồ-đề
 
-<div id="19"></div>
-
 Một ngày sáu thời, người học nên đến trước tượng Phật, Bồ-tát, năm vóc sát đất, đốt nén hương tỏ bày sám hối.
 
 Ngay đó thỉnh Tam bảo chứng minh, xưng tên và pháp danh, quỳ dài chấp tay thỉnh cầu:

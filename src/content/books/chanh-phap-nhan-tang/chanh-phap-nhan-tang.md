@@ -1,26 +1,6 @@
 ---
 sections:
-  - "1. Nguyên trạm lưu thanh môn"
-  - "2. Li trần tinh tấn môn"
-  - "3. Khước bộ phục thăng môn"
-  - "4. Thối đọa sách lệ môn"
-  - "5. Giải đãi miễn cần môn"
-  - "6. Chấp ngại quyết nghi môn"
-  - "7. Thất chính cứu cánh môn"
-  - "8. Triệt để cùng uyên môn"
-  - "9. Chỉ bản hoàn chân môn"
-  - "10. Thuận tức miễn hoạn môn"
-  - "11. Thượng căn lợi khí môn"
-  - "12. Thiền lâm tĩnh lự môn"
-  - "13. U cư chính phái môn"
-  - "14. Kỳ Viên Thánh chúng môn"
-  - "15. Giác ngộ huyền tông môn"
-  - "16. Quy nguyên thật tế môn"
-  - "17. Thể dụng song tu âm dực Vương hóa"
-  - "18. Song lâm di giới chúng đẳng tuân y"
-  - "19. Sám hối pháp môn Bồ-đề hạnh nguyện"
-  - "20. Ức tích xuất trần thừa huynh cảnh giới"
-  - "21. Phục trưng giải đọa chỉ cảnh tức mê"
+  - "1. Nói chuyện tu đạo (Bendōwa: Biện đạo thoại)"
 ---
 
 1. Nói chuyện tu đạo (Bendōwa: Biện đạo thoại)
@@ -53,7 +33,7 @@ sections:
 28. Bài châm ngồi thiền (Zazen Shin: Tọa thiền châm)
 29. Sự hướng lên trên phật (Bukkōjō ji: Phật hướng thượng sự)
 30. Như thế (Immo: Nhẫm ma)
-31. Hành trì, phần I (Gyōji, jō: Hành trì, thượng) - Hành trì, phần II (Gyō, ge: Hành trì, hạ)
+31. Hành trì, phần I (Gyōji, jō: Hành trì, thượng) & Hành trì, phần II (Gyō, ge: Hành trì, hạ)
 32. Hải ấn tam-muội (Kai’in Zemmai: Hải ấn tam-muội)
 33. Thọ ký (Juki: Thọ ký)
 34. Quan Âm (Kannon: Quan Âm)
@@ -95,7 +75,7 @@ sections:
 70. Phát tâm bồ-đề (Hotsu Bodai Shin: Phát bồ-đề tâm)
 71. Toàn thân Như Lai (Nyorai Zenshin: Như Lai toàn thân)
 72. Vua tam-muội (Sammai Ōzammai: Tam-muội Vương tam-muội)
-73. Ba mươi bảy phẩm bồ-đề phần pháp (Sanjūshichi Hon Bodai Bumpō: Tam          thập thất phẩm bồ-đề phần pháp)
+73. Ba mươi bảy phẩm bồ-đề phần pháp (Sanjūshichi Hon Bodai Bumpō: Tam thập thất phẩm bồ-đề phần pháp)
 74. Chuyển bánh xe pháp (Tembōrin: Chuyển pháp luân)
 75. Tự chứng tam-muội (Jishō Zammai: Tự chứng tam muội)
 76. Đại tu hành (Dai Shugyō: Đại tu hành)
@@ -119,7 +99,3 @@ sections:
 94. Tâm đạo (Dōshin: Đạo tâm)
 95. Thọ giới (Jukai: Thọ giới)
 96. Một trăm lẻ tám cửa chứng ngộ pháp (Ippaku Hachi Hōmyō Mon: Nhất bách bát pháp minh môn)
-Lời cuối sách
-Phụ lục 1: Phổ Khuyến Tọa Thiền Nghi
-Phụ lục 2: Cuộc đời và giáo lý của Thiền sư Đạo Nguyên
-Thư Mục
