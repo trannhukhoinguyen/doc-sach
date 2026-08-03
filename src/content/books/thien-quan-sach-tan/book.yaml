@@ -15,11 +15,10 @@ parts:
     chapters:
       - slug: 1-hoang-ba-hy-van-thien-su-day-chung
         number: 2
-        title: 1. Hoàng Bá Vận Thiền sư dạy Chúngcs
-    chapters:
-      - slug: chapter-04
-        number: 41
-        title: Comments
+        title: 1. Hoàng Bá Hy Vận Thiền sư dạy Chúng
+      - slug: 2-thien-su-trieu-chau-tung-tham-day-chung
+        number: 3
+        title: Thiền sư Triệu Châu Tùng Thẩm dạy Chúng
   - title: III. Dẫn Các Kinh
     chapters:
       - slug: chapter-04
